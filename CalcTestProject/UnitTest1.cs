@@ -12,7 +12,7 @@ namespace CalcTestProject
             Calculator calc = new Calculator();
 
             var result = calc.Add(2, 2);
-            var expected = 5;
+            var expected = 4;
 
             Assert.AreEqual(expected,result);
 
