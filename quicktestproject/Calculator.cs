@@ -9,5 +9,10 @@ namespace quicktestproject
             var result = x + y;
             return result;
         }
+
+        public int Subtract(int x, int y)
+        {
+
+        }
     }
 }
