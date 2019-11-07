@@ -12,7 +12,8 @@ namespace quicktestproject
 
         public int Subtract(int x, int y)
         {
-
+            var result = x - y;
+            return result;
         }
     }
 }
